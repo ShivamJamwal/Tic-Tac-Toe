@@ -24,7 +24,7 @@ public class AIplayer extends Player {
 
         Tictactoe.placemark(row, col, mark);
 
-
+    
     }
 
 }
